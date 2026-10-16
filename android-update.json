@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "applicationId": "id.urice.codin",
+  "versionName": "1.0.0",
+  "versionCode": 2,
+  "minSdk": 26,
+  "releasePageUrl": "https://github.com/adeilhamfebryan/codin-android-releases/releases/tag/android-v1.0.0",
+  "apkUrl": "https://github.com/adeilhamfebryan/codin-android-releases/releases/download/android-v1.0.0/codin-android-v1.0.0.apk",
+  "sizeBytes": 2107402,
+  "sha256": "5394fec95ae771c700c2d65bb92e1145ae7bc6b0ff9958ca3fcfd604de9854ad",
+  "releaseNotes": "Rilis pertama CODin by URice untuk Android. Akses layanan CODin, izin lokasi opsional, unggah hingga lima foto, pemeriksaan pembaruan, dan akses Login Admin melalui menu Tentang."
+}
