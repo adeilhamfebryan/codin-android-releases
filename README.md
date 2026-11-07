@@ -25,3 +25,11 @@ Sertifikat signing SHA-256:
 ```
 
 Metadata pembaruan tersedia di `android-update.json`. Repositori ini tidak memuat source privat, kredensial, keystore, atau password signing.
+
+## Kanal developer — native preview
+
+[Unduh APK developer 0.1.0 build 3](https://github.com/adeilhamfebryan/codin-android-releases/releases/download/android-native-dev-v0.1.0-build3/codin-native-dev-v0.1.0-build3.apk) · [Halaman prerelease](https://github.com/adeilhamfebryan/codin-android-releases/releases/tag/android-native-dev-v0.1.0-build3) · [Panduan kanal developer](https://github.com/adeilhamfebryan/codin-android-releases/blob/developer/DEVELOPER.md)
+
+Ini **pratinjau UI native dengan data contoh**, ditandatangani Android Debug dan belum diuji di HP. Login/auth menunggu auth.urice.id; belum ada akun atau transaksi nyata. Package `id.urice.codin.native.debug` dapat dipasang berdampingan dengan aplikasi produksi; preview tidak menggantikan APK produksi dan tidak diumumkan melalui updater produksi.
+
+Branch distribusi `developer` menyimpan [metadata developer](https://raw.githubusercontent.com/adeilhamfebryan/codin-android-releases/developer/android-developer-channel.json). Rilis developer selalu prerelease dan belum memiliki pembaruan otomatis dalam aplikasi. Unduhan stabil dan `android-update.json` di atas tetap untuk produksi.
