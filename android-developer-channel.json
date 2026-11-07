@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "channel": "developer-native",
+  "releaseTag": "android-native-dev-v0.1.0-build3",
+  "applicationId": "id.urice.codin.native.debug",
+  "versionName": "0.1.0-native-preview",
+  "versionCode": 3,
+  "minSdk": 26,
+  "targetSdk": 36,
+  "releasePageUrl": "https://github.com/adeilhamfebryan/codin-android-releases/releases/tag/android-native-dev-v0.1.0-build3",
+  "apkUrl": "https://github.com/adeilhamfebryan/codin-android-releases/releases/download/android-native-dev-v0.1.0-build3/codin-native-dev-v0.1.0-build3.apk",
+  "sizeBytes": 11693281,
+  "sha256": "3ab4733f3ed7dba81c5c6e2ffc4a93b719cbecd4bc542e2d8cf36bcd41e8273f",
+  "signing": {
+    "kind": "debug",
+    "certificateSha256": "8bf77e1549a2b769a842f67ab46d867cb5eb5cf5e233a3d180e49bd69f6d76ad"
+  },
+  "sampleDataOnly": true,
+  "automaticUpdates": false,
+  "authentication": "Deferred; future integration with auth.urice.id",
+  "releaseNotes": "Native member UI preview with local sample data. No live login, API or transactions. Device testing is deferred. Separate debug package; does not replace the production CODin app."
+}
